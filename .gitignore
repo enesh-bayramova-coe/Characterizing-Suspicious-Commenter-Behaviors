@@ -1,0 +1,9 @@
+# Ignore local API credentials or generated API wrapper
+api.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
