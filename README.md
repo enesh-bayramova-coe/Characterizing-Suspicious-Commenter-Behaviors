@@ -37,5 +37,5 @@ This project contains :
   ```
 
 ## Notes
-- Maximum comments to fetch is `1000`.
+- Maximum comments to fetch is `10000`.
 - `api.py` is excluded from Git via `.gitignore`.
